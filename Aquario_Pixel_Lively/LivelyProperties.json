@@ -1,0 +1,36 @@
+{
+  "timeMode": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Hora do dia",
+    "items": ["Automática (relógio do PC)", "Sempre dia", "Sempre entardecer", "Sempre noite"]
+  },
+  "fishCount": {
+    "type": "slider",
+    "value": 30,
+    "min": 6,
+    "max": 72,
+    "step": 1,
+    "text": "Quantidade de peixes"
+  },
+  "pixelSize": {
+    "type": "slider",
+    "value": 0,
+    "min": 0,
+    "max": 8,
+    "step": 1,
+    "text": "Tamanho do pixel (0 = automático)"
+  },
+  "fps": {
+    "type": "dropdown",
+    "value": 1,
+    "text": "Fluidez",
+    "items": ["20 fps (econômico)", "30 fps (normal)", "60 fps (mais suave)"]
+  },
+  "volume": {
+    "type": "dropdown",
+    "value": 1,
+    "text": "Som",
+    "items": ["Desligado", "Baixo", "Médio", "Alto"]
+  }
+}

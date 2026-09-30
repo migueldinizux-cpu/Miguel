@@ -1,0 +1,101 @@
+AQUÁRIO PIXEL v5 — bichinho, som, minijogos, loja de roupas e Aquapédia
+=======================================================================
+
+COMO APLICATIVO (janela na área de trabalho)
+  Dê dois cliques em AquarioPixel.exe. Mantenha junto dele a pasta "web" e as três DLLs
+  (Microsoft.Web.WebView2.*.dll e WebView2Loader.dll). Se quiser mudar o app de lugar, mova a pasta inteira.
+
+  Botão direito no aquário abre o menu:
+    - Modo widget (sem borda), Sempre no topo, Tela cheia (F11; Esc sai)
+    - Hora do dia, Quantidade de peixes, Fluidez (20/30/60 fps), Som (desligado/baixo/médio/alto)
+    - Chamar visitante (qualquer bicho ou criatura mitológica na hora)
+    - Bichinho: opções, guarda-roupa, minijogos, Aquapédia, modo caçador, mandar caçar agora, chamar para perto,
+      mostrar/ocultar painel, ritmo de crescimento, renomear, recomeçar do ovo (e escolher outra espécie)
+    - Iniciar com o Windows
+  O app fica também na bandeja (perto do relógio) e lembra tamanho, posição e opções.
+
+O BICHINHO VIRTUAL
+  ESCOLHA A ESPÉCIE: no começo (e sempre que recomeçar do ovo) você escolhe entre três seres bem diferentes:
+    - Serpente-marinha: comprida e brincalhona; vira um dragão do mar que dorme estirado nas ruínas.
+    - Medusa-lunar: flutua pulsando e brilha no escuro; tem um coraçãozinho que acende por dentro e,
+      gigante, ganha uma coroa de luz e dorme pousada no alto da coluna, como um abajur.
+    - Ermitão: anda pelo fundo com a casinha nas costas; a concha cresce até carregar um farol que acende
+      à noite. Para dormir, ele se esconde dentro da concha (às vezes espia com os olhinhos).
+  Depois é só tocar 3 vezes no ovo para chocar e dar um nome.
+  - Estágios: Bebê → Jovem → Adolescente → Gigante. Cresce enquanto estiver bem alimentado e feliz.
+  - Painel (canto superior esquerdo): fome, alegria, energia e quanto falta para o próximo estágio.
+    Clique no painel para recolher. Os ícones no alto do painel, da direita para a esquerda: engrenagem (opções),
+    cabide (guarda-roupa), livro (Aquapédia), controle (minijogos) e alto-falante (liga/desliga o som).
+  - ALIMENTAR: arraste um alimento da bandeja (embaixo) até a boca dele.
+      Sardinha: mata bem a fome · Camarão: o petisco favorito (mais alegria) · Alga doce: dá energia
+      Pérola: presente especial (muita alegria). Ganhe pérolas tocando no marisco-gigante (até 3; uma a cada 4 min).
+    Também dá para agarrar um peixinho de cardume (os pequenos azuis, laranja e prateados) e levar até ele.
+    Se soltar a comida longe, ele vai buscar (o Ermitão pega com a garra; se a comida estiver no alto, ele sobe boiando).
+    De barriga cheia ele avisa: "Buxin chei!" — e recusa até dar fome de novo.
+  - GUARDA-ROUPA E LOJA (cabide no painel, tecla R ou menu do botão direito): o bichinho vem posar enquanto você escolhe.
+      Já vêm liberados: gorro, laço, gravata-borboleta, óculos redondos e suéter listrado.
+      À venda (moedas): chapéu de festa, flor, touca de dormir, cartola, pirata, capitão, mago, coroa, gravata,
+        cachecol, coleira com sino, colar de pérolas, óculos escuros, de coração, monóculo, pijama e capa de herói.
+      Só por conquista: chapéu de polvinho, tiara de estrela-do-mar, coroa de coral, medalha de ouro,
+        máscara de mergulho e escamas douradas.
+    Clique numa peça trancada para PROVAR; se gostar, "Comprar". Se fechar sem comprar, ela volta para a caixa.
+    Quase tudo tem 9 cores. As peças se ajustam ao tamanho de cada estágio e de cada espécie, e ficam guardadas
+    mesmo se você recomeçar do ovo.
+  - MODO CAÇADOR (opções do bichinho ou menu do botão direito): desligado de fábrica. Ligado, o bichinho caça
+    peixinhos de cardume sozinho quando sente fome (do Adolescente em diante, também peixes do recife — mas nunca
+    o peixe-leão, que é venenoso). "Mandar caçar agora" faz uma caçada só, mesmo com o modo desligado.
+    Cada espécie caça do seu jeito: a serpente dá o bote, a medusa pega quem encosta nos tentáculos (os peixes
+    nem percebem ela chegando) e o ermitão belisca quem nada perto do fundo. Os peixes caçados voltam depois.
+  - CARINHO: passe o mouse devagar sobre a cabeça dele (saem coraçõezinhos). Clique na cabeça: um "bup".
+  - BRINCAR: mexa o mouse perto dele; ele nada (ou corre) em volta do cursor.
+  - DORMIR: à noite (22h–6h, se você não estiver mexendo) ou quando cansado. Às vezes abre um olho para espiar.
+  - Da fase Adolescente em diante, ele espanta o kraken (a serpente com bolhas, a medusa com um choquinho
+    de luz, o ermitão com uma beliscada).
+  - Ele nunca morre. Se ficar sem cuidado, fica tristinho e para de crescer até você voltar.
+  - O progresso fica salvo e continua de onde parou (com o app fechado, o tempo conta até 12 h).
+  - Ritmo de crescimento: Normal (alguns dias de uso), Rápido (uma tarde), Muito rápido (menos de 1 hora).
+
+MOEDAS E MINIJOGOS (ícone de controle no painel, tecla Q, ou clique no contador de moedas ao lado da bandeja)
+  Você começa com 60 moedas. Ganha mais nos minijogos e nas conquistas, e gasta na loja do guarda-roupa.
+    - Estoura-bolhas: 40 segundos para estourar bolhas; as douradas e as de pérola valem mais, a do baiacu tira pontos.
+      Acertar em sequência multiplica os pontos.
+    - Chuva de tesouros: o bichinho segue o mouse e pega moedas, joias, pérolas e comida; ouriços e águas-vivas
+      deixam ele tonto. (Precisa de um bichinho já chocado.)
+    - Memória das conchas: ache os 6 pares de bichos escondidos; menos jogadas, mais moedas.
+    - Concerto dos mariscos: repita a melodia que os mariscos tocam; a cada rodada ela cresce.
+  Esc sai do jogo no meio (e ainda conta os pontos).
+
+AQUAPÉDIA E CONQUISTAS (ícone de livro no painel ou tecla E)
+  44 fichas com curiosidades de verdade sobre cada ser. Os que nadam são descobertos só de aparecer na tela por
+  alguns segundos; os que moram no fundo (baiacu, caranguejo, cavalo-marinho, moreia, enguias, marisco, anêmona,
+  baú) precisam que você passe o mouse bem pertinho. Os não descobertos aparecem como silhuetas, com uma dica.
+  Tem segredos também. As 21 conquistas dão moedas e algumas liberam as roupas exclusivas.
+
+SOM
+  Ambiente de hidrofone (mar profundo, cantos de baleia ao longe) e efeitos para quase tudo: bolhas, comida,
+  carinho (cada espécie tem seu "ronrom"), ovo, baú, pérola, kraken, conquistas e minijogos. Tudo é gerado pelo
+  próprio programa (não há arquivos de áudio). Começa em volume baixo; troque em Som no menu, nas opções do
+  bichinho, no alto-falante do painel ou com a tecla X. Silencia sozinho com a janela minimizada.
+  No navegador e no Lively o som só começa depois do primeiro clique.
+
+COMO PAPEL DE PAREDE (Lively Wallpaper, grátis)
+  No Lively, clique em "+" e escolha Aquario_Pixel_Lively.zip. Ative a entrada de mouse
+  nas configurações do Lively para as interações funcionarem.
+
+O QUE MAIS FAZER COM O MOUSE
+  - Passar rápido perto dos peixes: eles fogem. Parar o cursor: os curiosos chegam perto.
+  - Clicar na água: cai ração para os peixes.
+  - Clicar no baú: abre com bolhas e moedas. Clicar no marisco-gigante: abre/fecha (e rende pérolas).
+  - Chegar perto do baiacu (infla), do caranguejo (se enterra), da moreia e das enguias-de-jardim (se escondem),
+    da anêmona (se recolhe), da lontra (acena), da sereia (acena) e do boto (tira o chapéu).
+  - Clicar num tentáculo do kraken faz ele recuar. Clicar em golfinhos, leão-marinho ou hipocampo dá um impulso.
+  - À noite o cursor vira lanterna e deixa um rastro de plâncton brilhante.
+
+TECLAS
+  1 dia · 2 entardecer · 3 noite · 0 automático · F11 tela cheia · G chama o bichinho · R guarda-roupa
+  Q minijogos · E Aquapédia · X liga/desliga o som · Esc fecha janelas (e sai do minijogo)
+  D golfinhos · J jubarte · O orca · C cachalote · N narval · L leão-marinho · P peixe-boi · T tartaruga
+  M manta · A barracudas · S sereia · B boto · H hipocampo · V leviatã · K kraken · Z tartaruga-ilha
+
+PARA RECOMPILAR O .EXE
+  powershell -ExecutionPolicy Bypass -File src\build.ps1

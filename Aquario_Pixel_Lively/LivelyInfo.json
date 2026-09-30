@@ -1,0 +1,14 @@
+{
+  "AppVersion": "5.0.0.0",
+  "Title": "Aquário Pixel",
+  "Thumbnail": "thumbnail.png",
+  "Preview": null,
+  "Desc": "Recife em pixel art com um bichinho para criar (serpente-marinha, medusa-lunar ou ermitão): alimente, vista, jogue minijogos para ganhar moedas e comprar roupas, e complete a Aquapédia com 44 seres e 21 conquistas. Som ambiente de hidrofone, mamíferos marinhos, criaturas mitológicas; reage ao mouse e segue o relógio do PC.",
+  "Author": "Miguel Diniz",
+  "License": null,
+  "Contact": null,
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
